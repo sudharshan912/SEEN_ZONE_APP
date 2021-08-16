@@ -33,3 +33,8 @@ ENSURE APP IS CONNECTED TO FIREBASE AND google-services.JSON IS ADDED TO project
 ![image](https://user-images.githubusercontent.com/65731838/129550519-98c19a70-1155-41f3-ac54-581802118064.png)
 
 
+#GET POSTER OF THE MOVIE IF POSTED
+
+![image](https://user-images.githubusercontent.com/65731838/129551003-443e3a97-b233-4103-856f-f5150d5a5def.png)
+
+
